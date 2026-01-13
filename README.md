@@ -27,7 +27,7 @@ If this repository is helpful, please cite us:
 > 
 > year = {2025},
 > 
-> DOI = {https://doi.org/10.1038/s41540-025-00626-7},
+> DOI = { https://doi.org/10.1038/s41540-025-00626-7 },
 > 
 > publisher = {Nature Publishing Group UK London}
 > }
