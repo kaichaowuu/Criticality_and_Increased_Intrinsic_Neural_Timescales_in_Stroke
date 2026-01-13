@@ -13,20 +13,23 @@ If this repository is helpful, please cite us:
 
 > @article{li2025machine,
 > 
-> title={Criticality and increased intrinsic neural timescales in stroke},
+> title = {Criticality and increased intrinsic neural timescales in stroke},
 > 
-> author={Kaichao Wu, Beth Jelfs, Qiang Fang and Leonardo L. Gollo}
+> author = {Kaichao Wu, Beth Jelfs, Qiang Fang and Leonardo L. Gollo}
 > >
-> journal={npj Systems Biology and Applications},
-> volume={11},
+> journal = {npj Systems Biology and Applications},
 > 
-> number={1},
+> volume = {12},
 > 
-> pages={103},
+> number = {4},
 > 
-> year={2025},
+> pages = {103},
 > 
-> publisher={Nature Publishing Group UK London}
+> year = {2025},
+> 
+> DOI = {https://doi.org/10.1038/s41540-025-00626-7},
+> 
+> publisher = {Nature Publishing Group UK London}
 > }
 
 
